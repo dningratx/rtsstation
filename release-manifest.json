@@ -1,0 +1,14 @@
+﻿{
+    "version":  "2.2.0",
+    "protocolVersion":  4,
+    "channel":  "Stable",
+    "releaseDateUtc":  "2026-11-26T09:07:36Z",
+    "installerFile":  "RTS-STATION-Setup-x64.exe",
+    "installerUrl":  "https://github.com/dningratx/rtsstation/raw/main/RTS-STATION-Setup-x64.exe",
+    "installerSha256":  "e4109d2a26b973b0596d2e58190531f2292542943c6503f7612b4a1f58c4f260",
+    "installerSizeBytes":  169543047,
+    "minimumWindowsVersion":  "10.0.17763",
+    "isMandatory":  false,
+    "releaseNotes":  "RTS STATION v2.2.0: Auto-update support, hardened security, upgrade safety, disaster recovery, and multi-room venue operations.",
+    "summary":  "RTS STATION v2.2.0: Auto-update support, hardened security, upgrade safety, disaster recovery, and multi-room venue operations."
+}
